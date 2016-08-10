@@ -105,6 +105,9 @@
                             </mask>
                         </variation>
                     </view>
+                    <connections>
+                        <outlet property="body" destination="lFD-Ur-Eop" id="cdr-28-DgX"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
